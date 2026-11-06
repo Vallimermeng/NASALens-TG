@@ -1,0 +1,26 @@
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #121212; 
+  color: #ffffff;            
+  padding: 20px;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  max-width: 500px; 
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card-content {
+  padding: 16px;
+}
